@@ -1,0 +1,15 @@
+node_modules
+.vercel
+dist
+.output
+screenshots
+artifacts
+attachments
+.grok
+.env
+.env.*
+*.log
+.DS_Store
+coverage
+.nitro
+.tanstack
